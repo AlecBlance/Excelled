@@ -62,12 +62,3 @@ def remove_password(x_file):
 
 if __name__ == '__main__':
     main()
-
-# excel = "test.xlsx"
-# file_name = excel.replace('.xlsx', '')
-# zipped = f'{file_name}.zip'
-# os.rename(excel, zipped)
-# with zipper(zipped, 'r') as zip_file, :
-
-# with open(f'{file_name}/xl/worksheets/sheet1.xml') as xml_file:
-#     re.sub("<sheetProtection(.*)/>")
