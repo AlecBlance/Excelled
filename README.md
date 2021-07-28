@@ -24,3 +24,16 @@ https://github.com/AlecBlance/Excelled/releases/download/v1.0/excelled.exe
 
 ### Upcoming update
 - Excelled website
+
+<br />
+
+#### Tentative look
+- Homepage
+<p>
+  <img src="docs/default.png" alt="Default web look" width="700">
+</p>
+
+- Processing
+<p>
+  <img src="docs/processing.png" alt="Default web look" width="700">
+</p>
