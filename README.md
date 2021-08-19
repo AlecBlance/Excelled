@@ -35,5 +35,5 @@ https://github.com/AlecBlance/Excelled/releases/download/v1.0/excelled.exe
 
 - Processing
 <p>
-  <img src="docs/processing.png" alt="Default web look" width="700">
+  <img src="docs/processing_1.png" alt="Default web look" width="700">
 </p>
