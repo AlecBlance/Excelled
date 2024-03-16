@@ -1,4 +1,4 @@
-# Excelled (on development)
+# Excelled
 <br />
 <p align="center">
   <a href="https://github.com/AlecBlance/MarksmenInventory/">
@@ -8,7 +8,7 @@
   <h3 align="center">Excelled</h3>
 
   <p align="center">
-    Excelled unprotects excel files without password. 
+    Excelled unlocks excel files without password. 
     <br />
     <br />
     <a href="https://youtu.be/v-O-r5LoX_E">View Demo</a>
@@ -19,21 +19,9 @@
   </p>
 </p>
 
-### Download
+### Web version:
+https://github.com/AlecBlance/excelled-web
+
+### App version (Multiple file unlocks): 
 https://github.com/AlecBlance/Excelled/releases/download/v1.0/excelled.exe
 
-### Upcoming update
-- Excelled website
-
-<br />
-
-#### Tentative look
-- Homepage
-<p>
-  <img src="docs/default.png" alt="Default web look" width="700">
-</p>
-
-- Processing
-<p>
-  <img src="docs/processing_1.png" alt="Default web look" width="700">
-</p>
